@@ -2,3 +2,17 @@
 p + ul > li {
     margin-left: 2em;
 }
+
+#logo h1 {
+    font-family: Tahoma, Verdana, "Segoe UI",, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 3.25em;
+}
+
+p + h3 {
+    margin-top: 1.3em;
+}
+
+ul + h3 {
+    margin-top: 1.3em;
+}
