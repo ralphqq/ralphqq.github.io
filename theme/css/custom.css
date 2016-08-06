@@ -16,3 +16,12 @@ p + h3 {
 ul + h3 {
     margin-top: 1.3em;
 }
+
+/*p > img {
+    margin-bottom: 1.3em;
+}*/
+
+p.figcap {
+    margin-bottom: 0;
+    font-size: 0.8em;
+}
